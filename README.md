@@ -1,5 +1,7 @@
 # JSON Editor
 
+[![Join the chat at https://gitter.im/JsoneditorCarringguns/Lobby](https://badges.gitter.im/JsoneditorCarringguns/Lobby.svg)](https://gitter.im/JsoneditorCarringguns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 JSON Editor is a web-based tool to view, edit, format, and validate JSON.
 It has various modes such as a tree editor, a code editor, and a plain text
 editor.
